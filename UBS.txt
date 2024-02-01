@@ -1,0 +1,10 @@
+Model Development and Implementation: I am responsible for the developement, implementation and maintainence of a complex PD, LGD and EAD forecasting model used for IFRS-9 and CECL usage for US Mortgages portfolio of UBS.
+Capstone Contribution: I built and implemented a mathematical attribution methodology that reverse engineers the model calculations and attributes the change in ECL to its drivers in the model.
+Stakeholder Management: I closely work with multiple teams and verticals including Scenario Providers, Shock Generator, Statistical Aggregation, Software and IT  teams accross the bank which has inculcated in me, a comprehensive understanding of the risk function across the bank.
+
+
+Climate Risk: Led the the development of the validation and the reporting framework for Climate related model risk. 
+Validation of Retail Loss Forecasting Models: This involved the validation of high risk econometric models used for CCAR reporting
+Enhancement of Validation framework (Capstone contribution):
+Self-undertaken the initiative of automation of internal workflow tracking and management through employing Python modules.
+
